@@ -94,3 +94,7 @@ Haibin He\*, **Maoyuan Ye**\*, Jing Zhang,  Juhua Liu, Bo Du, Dacheng Tao
 # 💻 Internships
 - *2023.07 - 2024.02*, iFLYTEK Research, IFLYTEK CO. LTD., China.
 - *2022.02 - 2023.06*, JD Explore Academy, JD Inc., China.
+
+# 📖 Academic Service
+- Conference Reviewer: CVPR, AAAI, ACM MM.
+- Journal Reviewer: IEEE TPAMI, IJCV, TIP.
