@@ -28,18 +28,68 @@ My research interest includes Computer Vision, Large Language Model, and Multimo
 
 # 📝 Publications 
 
+\* : Co-first author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/hisam.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation](https://arxiv.org/abs/2401.17904)
+
+**Maoyuan Ye**, Jing Zhang,  Juhua Liu, Chenyu Liu, Baocai Yin, Cong Liu, Bo Du, Dacheng Tao
+
+[**Project**](https://github.com/ymy-k/Hi-SAM)  <a href="https://github.com/ymy-k/Hi-SAM"><img src="https://img.shields.io/github/stars/ymy-k/Hi-SAM.svg?logo=github&label=Stars"></a>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/gomatching.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GoMatching: A Simple Baseline for Video Text Spotting via Long and Short Term Matching](https://arxiv.org/abs/2401.07080) (**NeurIPS 2024**)
+
+Haibin He\*, **Maoyuan Ye**\*, Jing Zhang,  Juhua Liu, Bo Du, Dacheng Tao
+
+[**Project**](https://github.com/Hxyz-123/GoMatching)  <a href="https://github.com/Hxyz-123/GoMatching"><img src="https://img.shields.io/github/stars/Hxyz-123/GoMatching.svg?logo=github&label=Stars"></a>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/deepsolo++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Multilingual Text Spotting](https://arxiv.org/abs/2305.19957)
+
+**Maoyuan Ye**\*, Jing Zhang\*, Shanshan Zhao, Juhua Liu, Tongliang Liu, Bo Du, Dacheng Tao
+
+[**Project**](https://github.com/ViTAE-Transformer/DeepSolo)  <a href="https://github.com/ViTAE-Transformer/DeepSolo"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/DeepSolo.svg?logo=github&label=Stars"></a>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/deepsolo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting](https://arxiv.org/abs/2211.10772) (**CVPR 2023**)
+
+**Maoyuan Ye**\*, Jing Zhang\*, Shanshan Zhao, Juhua Liu, Tongliang Liu, Bo Du, Dacheng Tao
+
+[**Project**](https://github.com/ViTAE-Transformer/DeepSolo)  <a href="https://github.com/ViTAE-Transformer/DeepSolo"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/DeepSolo.svg?logo=github&label=Stars"></a>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/dptext_detr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DPText-DETR: Towards Better Scene Text Detection with Dynamic Points in Transformer](https://arxiv.org/pdf/2207.04491v2)
+[DPText-DETR: Towards Better Scene Text Detection with Dynamic Points in Transformer](https://arxiv.org/abs/2207.04491) (**AAAI 2023, Oral**)
 
 **Maoyuan Ye**, Jing Zhang, Shanshan Zhao, Juhua Liu, Bo Du, Dacheng Tao
 
-[**Project**](https://github.com/ymy-k/DPText-DETR)  <a href="https://github.com/ymy-k/DPText-DETR"><img src="https://img.shields.io/github/stars/ymy-k/DPText-DETR.svg?logo=github&label=Stars"></a>
+[**Project**](https://github.com/ymy-k/DPText-DETR)   <a href="https://github.com/ymy-k/DPText-DETR"><img src="https://img.shields.io/github/stars/ymy-k/DPText-DETR.svg?logo=github&label=Stars"></a>
 </div>
 </div>
 
-* : Co-first author
+
 
 # 💻 Internships
 - *2023.07 - 2024.02*, iFLYTEK Research, IFLYTEK CO. LTD., China.
