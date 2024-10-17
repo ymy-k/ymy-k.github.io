@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D student at the [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/), advised by [Prof. Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN) and [Prof. Juhua Liu](https://scholar.google.com/citations?user=wN-rIgIAAAAJ&hl=zh-CN). I previously interned at JD Explore Academy and iFLYTEK Research.
+I am a first-year Ph.D student at the [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/), advised by [Prof. Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN) and [Prof. Juhua Liu](https://scholar.google.com/citations?user=wN-rIgIAAAAJ&hl=zh-CN). I work closely with [Dr. Jing Zhang](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=zh-CN). I previously interned at JD Explore Academy and iFLYTEK Research.
 
 My research interest includes Computer Vision, Large Language Model, and Multimodal Large Language Model. I previously focused on Optical Character Recognition (OCR) related topics. Now, my research interest lies in Multimodal Large Language Model. In addition, I closely follow the latest developments in Large Language Model.
 
@@ -28,19 +28,18 @@ My research interest includes Computer Vision, Large Language Model, and Multimo
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/dptext_detr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DPText-DETR: Towards Better Scene Text Detection with Dynamic Points in Transformer](https://arxiv.org/pdf/2207.04491v2)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Maoyuan Ye**, Jing Zhang, Shanshan Zhao, Juhua Liu, Bo Du, Dacheng Tao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/ymy-k/DPText-DETR)  <a href="https://github.com/ymy-k/DPText-DETR"><img src="https://img.shields.io/github/stars/ymy-k/DPText-DETR.svg?logo=github&label=Stars"></a>
 </div>
 </div>
 
-
+* : Co-first author
 
 # 💻 Internships
 - *2023.07 - 2024.02*, iFLYTEK Research, IFLYTEK CO. LTD., China.
