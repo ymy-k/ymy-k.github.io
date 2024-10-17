@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Maoyuan Ye"
+title                    : "Maoyuan Ye (叶茂源)"
 description              : "Ph.D student at Wuhan University. Interested in CV, OCR, LLM, MLLM."
 repository               : "ymy-k/ymy-k.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Maoyuan Ye"
+  name             : "Maoyuan Ye (叶茂源)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Wuhan University"
   location         : "Wuhan, China"
