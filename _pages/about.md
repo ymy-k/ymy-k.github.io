@@ -23,17 +23,17 @@ My research interest includes Computer Vision, Large Language Model, and Multimo
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Hi-SAM is accepted by **IEEE TPAMI**. 
 - *2024.09*: &nbsp;🎉🎉 One paper about video text spotting is accepted by **NeurIPS 2024**. 
-
 
 # 📝 Publications 
 
 \* : Co-first author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/hisam.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/hisam.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation](https://arxiv.org/abs/2401.17904)
+[Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation](https://arxiv.org/abs/2401.17904) (**IEEE TPAMI**)
 
 **Maoyuan Ye**, Jing Zhang,  Juhua Liu, Chenyu Liu, Baocai Yin, Cong Liu, Bo Du, Dacheng Tao
 
