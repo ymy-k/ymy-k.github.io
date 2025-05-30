@@ -23,6 +23,7 @@ My research interest includes Computer Vision, Large Language Model, and Multimo
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🚀🚀 We release [LogicOCR](https://ymy-k.github.io/LogicOCR.github.io/), a benchmark designed to evaluate the logical reasoning abilities of Large Multimodal Models (LMMs) on text-rich images, while minimizing reliance on domain-specific knowledge. We offer key insights for enhancing multimodal reasoning.
 - *2024.11*: &nbsp;🎉🎉 Hi-SAM is accepted by **IEEE TPAMI**. 
 - *2024.09*: &nbsp;🎉🎉 One paper about video text spotting is accepted by **NeurIPS 2024**. 
 
@@ -54,18 +55,6 @@ Haibin He\*, **Maoyuan Ye**\*, Jing Zhang,  Juhua Liu, Bo Du, Dacheng Tao
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/deepsolo++.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Multilingual Text Spotting](https://arxiv.org/abs/2305.19957)
-
-**Maoyuan Ye**\*, Jing Zhang\*, Shanshan Zhao, Juhua Liu, Tongliang Liu, Bo Du, Dacheng Tao
-
-[**Project**](https://github.com/ViTAE-Transformer/DeepSolo)  <a href="https://github.com/ViTAE-Transformer/DeepSolo"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/DeepSolo.svg?logo=github&label=Stars"></a>
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/deepsolo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -90,11 +79,74 @@ Haibin He\*, **Maoyuan Ye**\*, Jing Zhang,  Juhua Liu, Bo Du, Dacheng Tao
 </div>
 
 
+# 📝 Preprints 
+
+\* : Co-first author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/logicocr.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LogicOCR: Do Your Large Multimodal Models Excel at Logical Reasoning on Text-Rich Images?](https://arxiv.org/abs/2505.12307)
+
+**Maoyuan Ye**, Jing Zhang, Juhua Liu, Bo Du, Dacheng Tao
+
+[**Project**](https://ymy-k.github.io/LogicOCR.github.io/)  <a href="https://github.com/MiliLab/LogicOCR"><img src="https://img.shields.io/github/stars/MiliLab/LogicOCR.svg?logo=github&label=Stars"></a>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/reasoning-ocr.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reasoning-OCR: Can Large Multimodal Models Solve Complex Logical Reasoning Problems from OCR Cues?](https://arxiv.org/abs/2505.12766)
+
+Haibin He\*, **Maoyuan Ye**\*, Jing Zhang, Xiantao Cai, Juhua Liu, Bo Du, Dacheng Tao
+
+[**Project**](https://github.com/Hxyz-123/ReasoningOCR)  <a href="https://github.com/Hxyz-123/ReasoningOCR"><img src="https://img.shields.io/github/stars/Hxyz-123/ReasoningOCR.svg?logo=github&label=Stars"></a>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/ele-sam.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adapting Segment Anything Model for Power Transmission Corridor Hazard Segmentation](https://arxiv.org/abs/2505.22105)
+
+Hang Chen\*, **Maoyuan Ye**\*, Peng Yang, Haibin He, Juhua Liu, Bo Du
+
+[**Project**](https://github.com/Hhaizee/ELE-SAM)  <a href="https://github.com/Hhaizee/ELE-SAM"><img src="https://img.shields.io/github/stars/Hhaizee/ELE-SAM.svg?logo=github&label=Stars"></a>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/gomatching++.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GoMatching++: Parameter- and Data-Efficient Arbitrary-Shaped Video Text Spotting and Benchmarking](https://arxiv.org/abs/2505.22228)
+
+Haibin He, Jing Zhang, **Maoyuan Ye**, Juhua Liu, Bo Du, Dacheng Tao
+
+[**Project**](https://github.com/Hxyz-123/GoMatching)  <a href="https://github.com/Hxyz-123/GoMatching"><img src="https://img.shields.io/github/stars/Hxyz-123/GoMatching.svg?logo=github&label=Stars"></a>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/deepsolo++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Multilingual Text Spotting](https://arxiv.org/abs/2305.19957)
+
+**Maoyuan Ye**\*, Jing Zhang\*, Shanshan Zhao, Juhua Liu, Tongliang Liu, Bo Du, Dacheng Tao
+
+[**Project**](https://github.com/ViTAE-Transformer/DeepSolo)  <a href="https://github.com/ViTAE-Transformer/DeepSolo"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/DeepSolo.svg?logo=github&label=Stars"></a>
+</div>
+</div>
+
 
 # 💻 Internships
 - *2023.07 - 2024.02*, iFLYTEK Research, IFLYTEK CO. LTD., China.
 - *2022.02 - 2023.06*, JD Explore Academy, JD Inc., China.
 
 # 📖 Academic Service
-- Conference Reviewer: CVPR, AAAI, ACM MM.
+- Conference Reviewer: CVPR, NeurIPS, ICCV, AAAI, ACM MM.
 - Journal Reviewer: IEEE TPAMI, IJCV, TIP.
