@@ -34,6 +34,7 @@ My research interest includes Computer Vision, Large Language Model, and Multimo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/hisam.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation](https://arxiv.org/abs/2401.17904) (**IEEE TPAMI**, <font color='red'><b>CCF-A</b></font>)
+
 **Maoyuan Ye**, Jing Zhang,  Juhua Liu, Chenyu Liu, Baocai Yin, Cong Liu, Bo Du, Dacheng Tao
 
 [**Project**](https://github.com/ymy-k/Hi-SAM)  <a href="https://github.com/ymy-k/Hi-SAM"><img src="https://img.shields.io/github/stars/ymy-k/Hi-SAM.svg?logo=github&label=Stars"></a>
